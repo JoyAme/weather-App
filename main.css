@@ -20,7 +20,7 @@ body{
 }
 .weather{
  display: grid;
- margin-top: 11rem;
+ margin-top: 7rem;
  justify-content: center;
  
 }
@@ -28,7 +28,7 @@ body{
     background-image: radial-gradient(circle, rgb(43, 43, 43), rgb(29, 31, 30), rgb(44, 45, 46));
     color: white;
     padding: 30px;
-    width:40rem;
+    width:35rem;
     /* height:50vh; */
     border-radius: 10px;
 }
@@ -71,7 +71,7 @@ body{
 }
 .readings{
     display: flex;
- margin-top: 40%;
+ margin-top: 35%;
     justify-content: space-between;
 }
 
